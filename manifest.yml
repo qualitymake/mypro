@@ -1,0 +1,4 @@
+---
+applications:
+- name: myapp
+  buildpack: staticfile_buildpack
